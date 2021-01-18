@@ -1,0 +1,2082 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: #0a192f;
+    box-sizing: inherit;
+}
+.container-fluid{
+    padding: 0;
+}
+.navbar-toggler span{
+    color: #fff;
+}
+collapse navbar-collapse{
+    background: red;
+}
+#top{
+    padding-left: 20px;
+}
+.image{
+    padding-left: 170px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#second{
+    padding-right: 789px;
+    color: #fff;
+    font-weight: bold;
+}
+#second h1{
+    font-size: 70px;
+}
+#first{
+    padding-right: 1137px;
+    color: #64ffda;
+    font-family: monospace;
+}
+#first h6{
+    font-size: 19px;
+}
+#third{
+    opacity: 0.3;
+    color: #8892b0;
+    padding-right: 463px;
+}
+#third h1{
+    font-size: 70px;
+}
+#main-section{
+    padding-top: 150px;
+}
+#left h6{
+    color: #fff;
+    font-size: 15px;
+}
+.btnn{
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    background: inherit;
+    margin-top: 1px;
+    margin-right: 1px;
+    padding: 0.75rem 1rem;
+    font-family: monospace;
+}
+.about-title{
+    margin-top: 200px;
+    margin-left: 170px;
+    color: #ccd6f6;
+}
+.about-section{
+    margin-left: 170px;
+    margin-top: 40px;
+    color: #8892b0;
+    width: 600px;
+}
+a{
+    text-decoration: none;
+    color: #64ffda;
+}
+a:hover{
+    color: #64ffda;  
+}
+.skills-list{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(140px, 200px));
+    padding: 0px;
+    margin: 20px 0px 0px;
+    overflow: hidden;
+    list-style: none;
+    margin-left: 170px;
+}
+.list-1{
+    color: #64ffda;
+    font-size: 20px;
+    line-height: 12px;
+}
+.list-2{
+    color: #64ffda;
+    font-size: 20px;
+    line-height: 12px;
+}
+.list-3{
+    color: #64ffda;
+    font-size: 20px;
+    line-height: 12px;
+}
+.list-4{
+    color: #64ffda;
+    font-size: 20px;
+    line-height: 12px;
+}
+#img{
+    border-radius: 5px;
+    object-fit: cover;
+    object-position: center center;
+    opacity: 1;
+    transition: opacity 500ms ease 0s;
+    margin: 0;
+    padding-top: 20px;
+}
+.certificate-title{
+    margin-top: 200px;
+    margin-left: 500px;
+    color: #ccd6f6;
+}
+.site a:hover{
+    background: rgba(100, 255, 218, 0.1);
+}
+.view-site-1 a:hover{
+    background: rgba(100, 255, 218, 0.1);
+}
+.view-site-2 a:hover{
+    background: rgba(100, 255, 218, 0.1);
+}
+.view-site-3 a:hover{
+    background: rgba(100, 255, 218, 0.1);
+}
+.view-site-4 a:hover{
+    background: rgba(100, 255, 218, 0.1);
+}
+.view-site-5 a:hover{
+    background: rgba(100, 255, 218, 0.1);
+}
+.view-site-6 a:hover{
+    background: rgba(100, 255, 218, 0.1);
+}
+.certificate-link{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.certificate-link a{
+    font-size: 25px;
+}
+.certificate-link a:hover{
+    text-decoration: underline;
+}
+.project-title-1{
+    margin-top: 200px;
+    margin-left: 100px;
+    color: #ccd6f6;
+} 
+.first-project-item{
+    margin-top: 50px;
+    margin-left: 93px;
+    color: #ccd6f6;
+    font-size: 25px;
+}
+.first-project-item p{
+    color: #64ffda;
+}
+.restaurant img{
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background: inherit;
+}
+.view{
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    background: inherit;
+    padding:  20px 50px;
+    font-family: monospace;
+}
+.view-site-1{
+    margin-left: 320px;
+    margin-top: 20px;
+}
+.second-project-item{
+    margin-top: 50px;
+    margin-left: 93px;
+    color: #ccd6f6;
+    font-size: 25px;
+}
+.second-project-item p{
+    color: #64ffda;
+}
+.E-commerce img{
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background: inherit;
+}
+.project-title-2{
+    margin-top: 200px;
+    margin-left: 550px;
+    color: #ccd6f6;
+} 
+.relax-app img{
+    width: 323px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background: inherit;
+}
+.third-project-item{
+    margin-top: 50px;
+    margin-left: 93px;
+    color: #ccd6f6;
+    font-size: 25px;
+}
+.third-project-item p{
+    margin-left: 20px;
+    color: #64ffda;
+}
+.view-2{
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    background: inherit;
+    padding:  20px 50px;
+    font-family: monospace;
+}
+.view-site-2{
+    margin-left: 315px;
+    margin-top: 20px;
+}
+.view-3{
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    background: inherit;
+    padding:  20px 50px;
+    font-family: monospace;
+}
+.view-site-3{
+    margin-left: 176px;
+    margin-top: 20px;
+}
+.fourth-project-item{
+    padding-top: 50px;
+    margin: 0;
+    padding-left: 570px;
+    color: #ccd6f6;
+    font-size: 25px;
+}
+.weight-app img{
+    width: 350px;
+    margin-left: 506px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background: inherit;
+}
+.view-4{
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    background: inherit;
+    padding:  20px 50px;
+    font-family: monospace;
+}
+.view-site-4{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.fifth-project-item{
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 1100px;
+    color: #ccd6f6;
+    font-size: 25px;
+}
+.google-map-app img{
+    width: 350px;
+    margin-left: 70%;
+    margin-top: 20px;
+    border-radius: 4px;
+    background: inherit;
+}
+.view-5{
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    background: inherit;
+    padding:  20px 50px;
+    font-family: monospace;
+}
+.view-site-5{
+    margin-left: 77%;
+    margin-top: 20px;
+}
+.text-1 h1{
+    color: #ccd6f6;
+    font-size: 75px;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 20px;
+    opacity: 0.9;
+    font-weight: bold;
+}
+.text-1 p{
+    color: #64ffda;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    font-family: monospace;
+}
+.text-1{
+    margin-top: 200px;
+    margin-left: 10px;
+}
+.text-ontop{
+    color: #ccd6f6;
+    font-size: 18px;
+    text-align: center;
+    padding-right: 300px;
+    margin: 0;
+    opacity: 0.4;
+}
+.text-under{
+    padding-right: 350px;
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+    color: #ccd6f6;
+    opacity: 0.4;
+}
+.view-6{
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    background: inherit;
+    margin-top: 50px!important;
+    margin: 0;
+    padding:  20px 50px;
+    font-family: monospace;
+}
+.view-site-6{
+    text-align: center;
+}
+#main-footer{
+    text-align: center;
+}
+.footer-text{
+    color: #ccd6f6;
+    font-size: 15px;
+    opacity: 0.5;
+    font-family: monospace;
+    margin-top: 200px;
+}
+.copyright{
+    color: #ccd6f6; 
+    font-size: 15px;
+    opacity: 0.5;
+}
+.footer-link-1{
+    margin-right: 10px;
+    color: #ccd6f6;
+    opacity: 0.5;
+}
+.footer-link-2{
+    color: #ccd6f6;
+    opacity: 0.5;
+}
+.footer-link-3{
+    margin-left: 10px;
+    color: #ccd6f6;
+    opacity: 0.5;
+}
+.phone-link a{
+    color: #64ffda;
+    opacity: 0.5;
+}
+.phone-link{
+    margin-top: 5px;
+} 
+@media (min-width:1400px) {
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 330px;
+        background: #286086;
+    }   
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 730px;
+        background: #286086;
+    } 
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 450px;
+        background: #286086;
+    } 
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 1px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    .google-map-app{
+        padding-left: 1020px;
+        padding-top: 20px;
+    }
+    .google-map-app img{
+        margin: 0;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 1115px;
+        padding-top: 20px;
+    }
+}
+@media (max-width: 1399px) and (min-width: 1295px) {
+    #second h1{
+        font-size: 70px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 790px;
+    }
+    #first h6{
+        font-size: 19px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 1135px;
+    }
+    #third h1{
+        font-size: 70px;
+    }
+    #third{
+        margin: 0;
+        padding-right: 463px; 
+    }
+    #img{
+        margin: 0;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-top: 60px;
+        padding-left: 1050px;
+    }
+    .google-map-app img{
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .google-map-app{
+        margin: 0;
+        padding-left: 970px;
+        padding-top: 20px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 1065px;
+        padding-top: 20px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 1px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 330px;
+        background: #286086;
+    }   
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 730px;
+        background: #286086;
+    } 
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 450px;
+        background: #286086;
+    }      
+}
+@media (max-width: 1294px) and (min-width: 1200px) {
+    #second h1{
+        font-size: 55px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 746px;
+    }
+    #first h6{
+        font-size: 15px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 1016px;
+    }
+    #third h1{
+        font-size: 55px;
+    }
+    #third{
+        margin: 0;
+        padding-right: 490px; 
+    }
+    #img{
+        margin: 0;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-top: 60px;
+        padding-left: 1050px;
+    }
+    .fifth-project-item li{
+        font-size: 21px;
+    }
+    .google-map-app img{
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .google-map-app{
+        margin: 0;
+        padding-left: 970px;
+        padding-top: 20px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 1065px;
+        padding-top: 20px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 1px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 330px;
+        background: #286086;
+    }   
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 730px;
+        background: #286086;
+    } 
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 300px;
+        height: 1px;
+        margin-left: 450px;
+        background: #286086;
+    }    
+}
+@media (max-width: 1199px) and (min-width: 992px) {
+    #second h1{
+        font-size: 40px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 647px;
+    }
+    #first h6{
+        font-size: 15px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 814px;
+    }
+    #third h1{
+        font-size: 40px;
+    }
+    #third{
+        margin: 0;
+        padding-right: 460px;
+    }
+    #img{
+        margin: 0;
+    }
+    .project-title-2 h2{
+        font-size: 30px;
+    }
+    .third-project-item{
+        margin: 0;
+        padding-left: 450px;
+        padding-top: 70px;
+    }
+    .fourth-project-item{
+        padding-left: 470px;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-left: 480px;
+    }
+    .relax-app img{
+        margin: 0;
+    }
+    .relax-app{
+        padding-left: 420px;
+        padding-top: 20px;
+    }
+    .weight-app img{
+        margin: 0;
+    }
+    .weight-app{
+        padding-left: 420px;
+        padding-top: 20px;
+    }
+    .view-site-4{
+        margin: 0;
+        padding-left: 513px;
+        padding-top: 20px;
+    }
+    .google-map-app img{
+        margin: 0;
+    }
+    .google-map-app{
+        padding-left: 420px;
+        padding-top: 20px;
+    }
+    .google-map-app{
+        margin: 0;
+    }
+    .view-site-3{
+        margin: 0;
+        padding-left: 500px;
+        padding-top: 20px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 510px;
+        padding-top: 20px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 1px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    .certificate-link{
+        margin: 0;
+        padding-left: 650px;
+        padding-top: 50px;
+    }
+    .certificate-link a{
+        font-size: 25px;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 330px;
+        background: #286086;
+    }   
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 730px;
+        background: #286086;
+    } 
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 450px;
+        background: #286086;
+    } 
+}
+@media (max-width: 991px) and (min-width: 768px) {
+    #second h1{
+        font-size: 40px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 477px;
+    }
+    #third h1{
+        font-size: 41.3px;
+    }
+    #third{
+        margin: 0;
+        padding-right: 275px;
+    }
+    #first h6{
+        font-size: 15px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 640px;
+    }
+    .image{
+        margin: 0;
+    }
+    .certificate-link{
+        margin: 0;
+        padding-right: 1px;
+        padding-top: 70px;
+        text-align: center;
+    }
+    .certificate-link a{
+        font-size: 25px;
+    }
+    #certificate{
+        margin: 0;
+    }
+    .certificate-title{
+        margin: 0;
+    }
+    .certificate-title h2{
+        margin-left: 250px;
+        margin-top: 100px;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 330px;
+        background: #286086;
+    }   
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 470px;
+        background: #286086;
+    } 
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 430px;
+        background: #286086;
+    } 
+    .project-title-2{
+        margin: 0;
+        padding-left: 220px;
+        padding-top: 70px;
+    }
+    .fourth-project-item{
+        margin: 0;
+        padding-left: 300px;
+        padding-top: 70px;
+    }
+    .weight-app img{
+        margin: 0;
+        padding-left: 220px;
+        padding-top: 20px;
+        width: 600px;
+        border-radius: 4px;
+        background: inherit;
+    }
+    .view-site-4{
+        margin: 0;
+        padding-left: 325px;
+        padding-top: 20px;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-left: 320px;
+        padding-top: 70px;
+    }
+    .google-map-app img{
+        width: 600px;
+        margin: 0;
+        padding-left: 220px;
+        padding-top: 20px;
+        border-radius: 4px;
+        background: inherit;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 325px;
+        padding-top: 20px;
+    }
+    .text-1 h1{
+        color: #ccd6f6;
+        font-size: 75px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 20px;
+        opacity: 0.9;
+        font-weight: bold;
+    }
+    .text-1 p{
+        color: #64ffda;
+        font-size: 25px;
+        text-align: center;
+        margin: 0;
+        font-family: monospace;
+    }
+    .text-1{
+        margin-top: 200px;
+        margin-left: 10px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 8px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    #about{
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+    }
+    .about-section{
+        margin: 0;
+        padding-left: 170px;
+    }
+    .third-project{
+        padding-left: 130px;
+    }
+    .relax-app{
+        padding-left: 130px;
+    }
+    .view-site-3{
+        padding-left: 135px;
+    }
+    .view-site-6{
+        padding-left: 10px;
+    }
+    #main-footer{
+        padding-left: 20px;
+    }
+}
+@media (max-width: 767px) and (min-width: 576px) {
+    #third{
+        margin: 0;
+        padding-right: 150px;
+    }
+    #third h1{
+        font-size: 35px;
+    }  
+    #second h1{
+        font-size: 37px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 298px;
+    }
+    #first h6{
+        font-size: 15px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 441px;
+    }  
+    #about{
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+    }
+    .about-section{
+        margin: 0;
+        padding-left: 130px;
+        width: 500px;
+    } 
+    .about-title{
+        margin: 0;
+        padding-left: 135px;
+        padding-top: 200px;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 280px;
+        background: #286086;
+    }  
+    .image{
+        margin: 0;
+        padding-left: 130px;
+    }
+    .skills-list{
+        margin: 0;
+        padding-left: 130px;
+    }
+    #certificate{
+        margin: 0;
+        padding-left: 130px;
+        padding-top: 100px;
+    }
+    .certificate-link{
+        margin: 0;
+        padding-top: 50px;
+        padding-left: 100px;
+    }
+    .certificate-title{
+        margin: 0;
+    }
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 190px;
+        background: #286086;
+    } 
+    .project-title-1{
+        margin: 0;
+        padding-top: 200px;
+        padding-right: 230px;
+    }
+    .project-title-1 h2{
+        font-size: 25px;
+    }
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 280px;
+        background: #286086;
+    } 
+    .first-project-item{
+        margin: 0;
+        padding-left: 50px;
+    }
+    .restaurant img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-1{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .second-project-item{
+        margin: 0;
+        padding-top: 70px;
+    }
+    .E-commerce img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-2{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .project-title-2{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 100px;
+    }
+    .third-project-item{
+        margin: 0;
+        padding-left: 90px;
+        padding-top: 50px;
+    }
+    .relax-app img{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 20px;
+        width: 400px;
+    }
+    .view-site-3{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .fourth-project-item{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 60px;
+    }
+    .weight-app img{
+        margin: 0;
+        padding-left: 40px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-4{
+        margin: 0;
+        padding-left: 160px;
+        padding-top: 20px;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-left: 170px;
+        padding-top: 60px;
+    }
+    .google-map-app img{
+        margin: 0;
+        padding-left: 70px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 175px;
+        padding-top: 20px;
+    }
+    .text-1 h1{
+        color: #ccd6f6;
+        font-size: 75px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 20px;
+        opacity: 0.9;
+        font-weight: bold;
+    }
+    .text-1 p{
+        color: #64ffda;
+        font-size: 25px;
+        text-align: center;
+        margin: 0;
+        font-family: monospace;
+    }
+    .text-1{
+        margin-top: 200px;
+        margin-left: 10px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 8px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+}  
+@media (max-width: 575px) and (min-width: 539px) {
+    #third{
+        margin: 0;
+        padding-right: 120px;
+    }
+    #third h1{
+        font-size: 35px;
+    }  
+    #second h1{
+        font-size: 37px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 270px;
+    }
+    #first h6{
+        font-size: 15px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 413px;
+    } 
+    #about{
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+    }
+    .about-section{
+        margin: 0;
+        padding-left: 130px;
+        width: 500px;
+    } 
+    .about-title{
+        margin: 0;
+        padding-left: 135px;
+        padding-top: 200px;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 280px;
+        background: #286086;
+    }  
+    .image{
+        margin: 0;
+        padding-left: 130px;
+    }
+    .skills-list{
+        margin: 0;
+        padding-left: 130px;
+    }
+    #certificate{
+        margin: 0;
+        padding-left: 130px;
+        padding-top: 100px;
+    }
+    .certificate-link{
+        margin: 0;
+        padding-top: 50px;
+        padding-left: 100px;
+    }
+    .certificate-title{
+        margin: 0;
+    }
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 190px;
+        background: #286086;
+    } 
+    .project-title-1{
+        margin: 0;
+        padding-top: 200px;
+        padding-right: 230px;
+    }
+    .project-title-1 h2{
+        font-size: 25px;
+    }
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 280px;
+        background: #286086;
+    } 
+    .first-project-item{
+        margin: 0;
+        padding-left: 50px;
+    }
+    .restaurant img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-1{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .second-project-item{
+        margin: 0;
+        padding-top: 70px;
+    }
+    .E-commerce img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-2{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .project-title-2{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 100px;
+    }
+    .third-project-item{
+        margin: 0;
+        padding-left: 90px;
+        padding-top: 50px;
+    }
+    .relax-app img{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 20px;
+        width: 400px;
+    }
+    .view-site-3{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .fourth-project-item{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 60px;
+    }
+    .weight-app img{
+        margin: 0;
+        padding-left: 40px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-4{
+        margin: 0;
+        padding-left: 160px;
+        padding-top: 20px;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-left: 170px;
+        padding-top: 60px;
+    }
+    .google-map-app img{
+        margin: 0;
+        padding-left: 70px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 175px;
+        padding-top: 20px;
+    }
+    .text-1 h1{
+        color: #ccd6f6;
+        font-size: 75px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 20px;
+        opacity: 0.9;
+        font-weight: bold;
+    }
+    .text-1 p{
+        color: #64ffda;
+        font-size: 25px;
+        text-align: center;
+        margin: 0;
+        font-family: monospace;
+    }
+    .text-1{
+        margin-top: 200px;
+        margin-left: 10px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 8px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+}
+@media (max-width: 538px) and (min-width: 441px) {
+    #third{
+        margin: 0;
+        padding-right: 1px;
+    }
+    #third h1{
+        font-size: 35px;
+    }  
+    #second h1{
+        font-size: 37px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 150px;
+    }
+    #first h6{
+        font-size: 15px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 295px;
+    } 
+    #about{
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+    }
+    .about-section{
+        margin: 0;
+        padding-left: 130px;
+        width: 500px;
+    } 
+    .about-title{
+        margin: 0;
+        padding-left: 135px;
+        padding-top: 200px;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 280px;
+        background: #286086;
+    }  
+    .image{
+        margin: 0;
+        padding-left: 130px;
+    }
+    .skills-list{
+        margin: 0;
+        padding-left: 130px;
+    }
+    #certificate{
+        margin: 0;
+        padding-left: 130px;
+        padding-top: 100px;
+    }
+    .certificate-link{
+        margin: 0;
+        padding-top: 50px;
+        padding-left: 100px;
+    }
+    .certificate-title{
+        margin: 0;
+    }
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 190px;
+        background: #286086;
+    } 
+    .project-title-1{
+        margin: 0;
+        padding-top: 200px;
+        padding-right: 230px;
+    }
+    .project-title-1 h2{
+        font-size: 20.7px;
+    }
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 240px;
+        background: #286086;
+    } 
+    .first-project-item{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .restaurant img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-1{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .second-project-item{
+        margin: 0;
+        padding-top: 70px;
+    }
+    .E-commerce img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-2{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .project-title-2{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 100px;
+    }
+    .third-project-item{
+        margin: 0;
+        padding-left: 90px;
+        padding-top: 50px;
+    }
+    .relax-app img{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 20px;
+        width: 400px;
+    }
+    .view-site-3{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .fourth-project-item{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 60px;
+    }
+    .weight-app img{
+        margin: 0;
+        padding-left: 40px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-4{
+        margin: 0;
+        padding-left: 160px;
+        padding-top: 20px;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-left: 170px;
+        padding-top: 60px;
+    }
+    .google-map-app img{
+        margin: 0;
+        padding-left: 70px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 175px;
+        padding-top: 20px;
+    }
+    .view-site-6{
+        padding-left: 80px;
+    }
+    .text-1 h1{
+        color: #ccd6f6;
+        font-size: 60px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 20px;
+        opacity: 0.9;
+        font-weight: bold;
+    }
+    .text-1 p{
+        color: #64ffda;
+        font-size: 25px;
+        text-align: center;
+        margin: 0;
+        font-family: monospace;
+    }
+    .text-1{
+        padding-top: 200px;
+        padding-left: 60px;
+        margin: 0;
+    }
+    .text{
+        padding-left: 60px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 8px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    #main-footer{
+        padding-left: 100px;
+    }
+}
+@media (max-width: 440px) and (min-width: 375px) {
+    #third{
+        margin: 0;
+        padding: 0;
+    }
+    #third h1{
+        font-size: 31px;
+    }  
+    #second h1{
+        font-size: 37px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 100px;
+    }
+    #first h6{
+        font-size: 15px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 242px;
+    } 
+    #about{
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+    }
+    .about-section{
+        margin: 0;
+        padding-left: 130px;
+        width: 500px;
+    } 
+    .about-title{
+        margin: 0;
+        padding-left: 135px;
+        padding-top: 200px;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 280px;
+        background: #286086;
+    }  
+    .image{
+        margin: 0;
+        padding-left: 130px;
+    }
+    .skills-list{
+        margin: 0;
+        padding-left: 130px;
+    }
+    #certificate{
+        margin: 0;
+        padding-left: 130px;
+        padding-top: 100px;
+    }
+    .certificate-link{
+        margin: 0;
+        padding-top: 50px;
+        padding-left: 100px;
+    }
+    .certificate-link a{
+        font-size: 22px;
+    }
+    .certificate-title{
+        margin: 0;
+    }
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 190px;
+        background: #286086;
+    } 
+    .project-title-1{
+        margin: 0;
+        padding-top: 200px;
+        padding-right: 100px;
+    }
+    .project-title-1 h2{
+        font-size: 22px;
+    }
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 240px;
+        background: #286086;
+    } 
+    .first-project-item{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .first-project-item p{
+        font-size: 21px;
+    }
+    .restaurant img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-1{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .second-project-item{
+        margin: 0;
+        padding-top: 70px;
+    }
+    .second-project-item li{
+        font-size: 20px;
+    }
+    .E-commerce img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-2{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .project-title-2{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 100px;
+    }
+    .third-project-item{
+        margin: 0;
+        padding-left: 90px;
+        padding-top: 50px;
+    }
+    .third-project-item li{
+        font-size: 24px;
+    }
+    .relax-app img{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 20px;
+        width: 400px;
+    }
+    .view-site-3{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .fourth-project-item{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 60px;
+    }
+    .weight-app img{
+        margin: 0;
+        padding-left: 40px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-4{
+        margin: 0;
+        padding-left: 160px;
+        padding-top: 20px;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-left: 170px;
+        padding-top: 60px;
+    }
+    .google-map-app img{
+        margin: 0;
+        padding-left: 70px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 175px;
+        padding-top: 20px;
+    }
+    .view-site-6{
+        padding-left: 150px;
+    }
+    .text-1 h1{
+        color: #ccd6f6;
+        font-size: 38px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 20px;
+        opacity: 0.9;
+        font-weight: bold;
+    }
+    .text-1 p{
+        color: #64ffda;
+        font-size: 25px;
+        text-align: center;
+        margin: 0;
+        font-family: monospace;
+    }
+    .text-1{
+        padding-top: 200px;
+        padding-left: 150px;
+        margin: 0;
+    }
+    .text{
+        padding-left: 150px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        padding-bottom: 10px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 8px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    #main-footer{
+        padding-left: 150px;
+    }
+}
+@media (max-width: 374px) and (min-width: 320px) {
+    #third{
+        margin: 0;
+        padding: 0;
+    }
+    #third h1{
+        font-size: 26.5px;
+    }  
+    #second h1{
+        font-size: 37px;
+    }
+    #second{
+        margin: 0;
+        padding-right: 50px;
+    }
+    #first h6{
+        font-size: 17px;
+    }
+    #first{
+        margin: 0;
+        padding-right: 180px;
+    } 
+    #about{
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+    }
+    .about-section{
+        margin: 0;
+        padding-left: 130px;
+        width: 500px;
+    } 
+    .about-title{
+        margin: 0;
+        padding-left: 135px;
+        padding-top: 200px;
+    }
+    .after{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 280px;
+        background: #286086;
+    }  
+    .image{
+        margin: 0;
+        padding-left: 130px;
+    }
+    .skills-list{
+        margin: 0;
+        padding-left: 130px;
+    }
+    #certificate{
+        margin: 0;
+        padding-left: 130px;
+        padding-top: 100px;
+    }
+    .certificate-link{
+        margin: 0;
+        padding-top: 50px;
+        padding-left: 100px;
+    }
+    .certificate-link a{
+        font-size: 22px;
+    }
+    .certificate-title{
+        margin: 0;
+    }
+    .before{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 190px;
+        background: #286086;
+    } 
+    .project-title-1{
+        margin: 0;
+        padding-top: 200px;
+        padding-right: 100px;
+    }
+    .project-title-1 h2{
+        font-size: 21px;
+    }
+    .now{
+        content: "";
+        display: block;
+        position: relative;
+        top: -22px;
+        width: 220px;
+        height: 1px;
+        margin-left: 240px;
+        background: #286086;
+    } 
+    .first-project-item{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .first-project-item p{
+        font-size: 21px;
+    }
+    .restaurant img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-1{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .second-project-item{
+        margin: 0;
+        padding-top: 70px;
+    }
+    .second-project-item li{
+        font-size: 20px;
+    }
+    .E-commerce img{
+        margin: 0;
+        padding-right: 150px;
+        padding-top: 10px;
+    }
+    .view-site-2{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .project-title-2{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 100px;
+    }
+    .project-title-2 h2{
+        font-size: 21px;
+    }
+    .third-project-item{
+        margin: 0;
+        padding-left: 95px;
+        padding-top: 50px;
+    }
+    .third-project-item li{
+        font-size: 19px;
+    }
+    .relax-app img{
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 20px;
+        width: 400px;
+    }
+    .view-site-3{
+        margin: 0;
+        padding-left: 140px;
+        padding-top: 20px;
+    }
+    .fourth-project-item{
+        margin: 0;
+        padding-left: 145px;
+        padding-top: 60px;
+    }
+    .fourth-project-item li{
+        font-size: 19px;
+    }
+    .weight-app img{
+        margin: 0;
+        padding-left: 40px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-4{
+        margin: 0;
+        padding-left: 160px;
+        padding-top: 20px;
+    }
+    .fifth-project-item{
+        margin: 0;
+        padding-left: 170px;
+        padding-top: 60px;
+    }
+    .fifth-project-item li{
+        font-size: 20px;
+    }
+    .google-map-app img{
+        margin: 0;
+        padding-left: 70px;
+        padding-top: 20px;
+        width: 450px;
+    }
+    .view-site-5{
+        margin: 0;
+        padding-left: 175px;
+        padding-top: 20px;
+    }
+    .view-site-6{
+        padding-left: 150px;
+    }
+    .text-1 h1{
+        color: #ccd6f6;
+        font-size: 28px;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 20px;
+        opacity: 0.9;
+        font-weight: bold;
+    }
+    .text-1 p{
+        color: #64ffda;
+        font-size: 25px;
+        text-align: center;
+        margin: 0;
+        font-family: monospace;
+    }
+    .text-1{
+        padding-top: 200px;
+        padding-left: 150px;
+        margin: 0;
+    }
+    .text{
+        padding-left: 150px;
+    }
+    .text-ontop{
+        color: #ccd6f6;
+        font-size: 18px;
+        text-align: center;
+        padding-right: 1px;
+        padding-bottom: 10px;
+        margin: 0;
+        opacity: 0.4;
+    }
+    .text-under{
+        padding-right: 8px;
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        color: #ccd6f6;
+        opacity: 0.4;
+    }
+    #main-footer{
+        padding-left: 150px;
+    }
+}
